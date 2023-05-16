@@ -1,0 +1,60 @@
+I-Logix-RPY-Archive version 8.15.0 * 202002261110
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 8;
+	- value = "CodesGeneres\\ModeAnimation\\IHM_Objets.cpp" 10.12.2022::11:7:51
+	"CodesGeneres\\ModeAnimation\\IHM_Objets.h" 10.12.2022::11:7:51
+	"CodesGeneres\\ModeAnimation\\Main.cpp" 10.12.2022::11:7:50
+	"CodesGeneres\\ModeAnimation\\Main.h" 10.12.2022::11:7:50
+	"CodesGeneres\\ModeAnimation\\_MonPkg.cpp" 10.18.2022::9:53:40
+	"CodesGeneres\\ModeAnimation\\_MonPkg.h" 10.18.2022::9:53:40
+	"CodesGeneres\\ModeAnimation\\_SysVehicule.cpp" 10.18.2022::11:3:20
+	"CodesGeneres\\ModeAnimation\\_SysVehicule.h" 10.18.2022::10:26:50
+	
+}
+- m_saveUnitAndOwnerSaveUnit = { IRPYRawContainer 
+	- size = 3;
+	- value = "GUID 01dd56fe-298e-423f-8f52-a5e5dff6dbdc" "GUID 2cafea49-7e9a-4c9e-95bf-81ae3a67417e"
+	"GUID 3d99dc34-15fa-4ef9-9e32-d4373e63fc39" "GUID 2cafea49-7e9a-4c9e-95bf-81ae3a67417e"
+	"GUID 64a74a3b-c261-4958-b577-5a9ed39c89bf" "GUID 2cafea49-7e9a-4c9e-95bf-81ae3a67417e"
+	
+}
+- size = 5;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\HelloWorld2_rpy\\_MonPkg.sbsx";
+	- _name = "_MonPkg";
+	- _id = GUID 64a74a3b-c261-4958-b577-5a9ed39c89bf;
+}
+- genTime = 10.18.2022::11:3:20;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\HelloWorld2_rpy\\_MonPkg.sbsx";
+	- _subsystem = "_MonPkg";
+	- _name = "_SysVehicule";
+	- _id = GUID 3684b53f-4fb7-4106-9c73-3759402a3dd5;
+}
+- genTime = 10.18.2022::11:3:20;
+- hElement = { IHandle 
+	- _m2Class = "ICodeGenConfigInfo";
+	- _filename = ".\\..\\..\\HelloWorld2_rpy\\CodesGeneres.cmpx";
+	- _name = "CodesGeneres\\ModeAnimation";
+	- _id = GUID 676b993c-40d1-439f-9c34-e579750a2b51;
+}
+- genTime = 10.18.2022::11:13:13;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\HelloWorld2_rpy\\IHM_Objets.sbsx";
+	- _subsystem = "IHM_Objets";
+	- _name = "Main";
+	- _id = GUID 187c4360-fdb2-4b6f-996d-5c38ed7c9d37;
+}
+- genTime = 10.18.2022::8:27:38;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\HelloWorld2_rpy\\IHM_Objets.sbsx";
+	- _name = "IHM_Objets";
+	- _id = GUID 01dd56fe-298e-423f-8f52-a5e5dff6dbdc;
+}
+- genTime = 10.18.2022::11:1:4;
+
